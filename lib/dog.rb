@@ -1,8 +1,8 @@
-class Puppy 
+class Dog 
   @@all = []
   
   def initialize
-    puppy.self
+    Dog.self
   end 
   
 end 
