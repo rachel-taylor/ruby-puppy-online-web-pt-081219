@@ -1,8 +1,8 @@
 class Dog 
   @@all = []
+  @@names = []
   
   def initialize(self)
-    Dog.new
   end 
   
 end 
