@@ -7,6 +7,6 @@ class Dog
   end 
   
   def name 
-    @assert_not_same
+    @name
   end 
 end 
