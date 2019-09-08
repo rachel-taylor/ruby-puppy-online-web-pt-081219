@@ -2,7 +2,7 @@ class Dog
   @@all = []
   @@names = []
   
-  def initialize(self)
-  end 
+  # def initialize(self)
+  # end 
   
 end 
