@@ -1,6 +1,8 @@
 class Puppy 
   @@all = []
   
-  def 
+  def initialize
+    puppy.self
+  end 
   
 end 
